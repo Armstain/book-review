@@ -1,0 +1,81 @@
+[
+
+    {
+      "bookId": 1,
+      "bookName": "The Hitchhiker's Guide to the Galaxy",
+      "author": "Douglas Adams",
+      "image": "https://i.ibb.co/XDf4Phv/Hitch.jpg",
+      "review": "A hilarious and insightful science fiction comedy that will leave you wanting more.",
+      "totalPages": 192,
+      "rating": 4.5,
+      "category": "Science Fiction",
+      "tags": ["Humor", "Satire", "Space Travel"],
+      "publisher": "Pan Books",
+      "yearOfPublishing": 1979
+    },
+    {
+      "bookId": 2,
+      "bookName": "Pride and Prejudice",
+      "author": "Jane Austen",
+      "image": "https://i.ibb.co/VqKDWtb/Pride.jpg",
+      "review": "A timeless classic of wit and social commentary that explores love and societal expectations.",
+      "totalPages": 224,
+      "rating": 4.8,
+      "category": "Romance",
+      "tags": ["Classic", "Social Commentary", "Witty Dialogue"],
+      "publisher": "Penguin Classics",
+      "yearOfPublishing": 1813
+    },
+    {
+      "bookId": 3,
+      "bookName": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "image": "https://i.ibb.co/kG8KM9c/to-kill.jpg",
+      "review": "A powerful and moving story about racial injustice in the American South.",
+      "totalPages": 324,
+      "rating": 4.9,
+      "category": "Fiction",
+      "tags": ["Coming-of-Age", "Social Justice", "Historical Fiction"],
+      "publisher": "J.B. Lippincott & Co.",
+      "yearOfPublishing": 1960
+    },
+    {
+      "bookId": 4,
+      "bookName": "Dune",
+      "author": "Frank Herbert",
+      "image": "https://i.ibb.co/RS2qFbh/dune.jpg",
+      "review": "A complex and epic science fiction saga set on a desert planet.",
+      "totalPages": 863,
+      "rating": 4.2,
+      "category": "Science Fiction",
+      "tags": ["Politics", "Ecology", "Religion"],
+      "publisher": "Chilton Books",
+      "yearOfPublishing": 1965
+    },
+    {
+      "bookId": 5,
+      "bookName": "The Lord of the Rings",
+      "author": "J.R.R. Tolkien",
+      "image": "https://i.ibb.co/fpwJC62/the-lord.jpg",
+      "review": "A sprawling epic fantasy that has captivated readers for generations.",
+      "totalPages": 1138,
+      "rating": 4.7,
+      "category": "Fantasy",
+      "tags": ["Adventure", "Friendship", "Good vs. Evil"],
+      "publisher": "Allen & Unwin",
+      "yearOfPublishing": 1954
+    },
+    {
+      "bookId": 6,
+      "bookName": "One Hundred Years of Solitude",
+      "author": "Gabriel García Márquez",
+      "image": "https://i.ibb.co/pdrL70D/one-hundred.jpg",
+      "review": "A magical realist masterpiece that explores the history of a family and a town.",
+      "totalPages": 487,
+      "rating": 4.6,
+      "category": "Magical Realism",
+      "tags": ["Family Saga", "History", "Latin America"],
+      "publisher": "Editorial Sudamericana",
+      "yearOfPublishing": 1967
+    }
+  ]
