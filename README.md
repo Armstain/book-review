@@ -10,7 +10,6 @@ Welcome to the **Book Review Website** repository! This project is a platform fo
 - **Review and Rating System**: Users can write reviews and rate books to share their opinions with the community.
 - **Charts and Graphs**: Visual representations of book ratings and reviews using Recharts.
 - **Local Storage**: Offline support with localforage to save user data locally.
-- **Notifications**: Real-time notifications using React Toastify.
 
 ### Technologies Used
 
