@@ -14,6 +14,7 @@ Welcome to the **Book Review Website** repository! This project is a platform fo
 ### Technologies Used
 
 - **Frontend**: React, Tailwind CSS, DaisyUI, React Icons, React Router DOM
+- **Backend**: Nodejs, Mongodb, Express
 - **Data Management**: Localforage, Match Sorter, Sort By
 - **Charts**: Recharts
 - **Development Tools**: Vite, ESLint, PostCSS, Autoprefixer
